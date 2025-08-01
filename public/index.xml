@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sahil Gogna</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Sahil Gogna</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ms Excel for Business and Data Analysts</title>
+      <link>http://localhost:1313/resources/excel/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resources/excel/</guid>
+      <description>&lt;h1 id=&#34;-getting-started-with-data-analysis-in-excel&#34;&gt;📊 Getting Started with Data Analysis in Excel&lt;/h1&gt;&#xA;&lt;h3 id=&#34;a-beginner-to-intermediate-guide&#34;&gt;A Beginner to Intermediate Guide&lt;/h3&gt;&#xA;&lt;p&gt;Excel is a powerful tool for data analysis, but knowing formulas and functions alone isn’t enough—you need to understand how to apply them to real-world business scenarios. Many professionals use Excel daily, but few truly leverage it to solve workplace challenges.&lt;/p&gt;&#xA;&lt;p&gt;This guide covers essential skills and techniques to help you transition from simply knowing Excel to &lt;strong&gt;using it effectively for data-driven decisions&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/resources/data_visualization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resources/data_visualization/</guid>
+      <description>&lt;h1 id=&#34;-data-visualization-roadmap-a-beginners-guide&#34;&gt;📊 Data Visualization Roadmap: A Beginner&amp;rsquo;s Guide&lt;/h1&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re starting your journey into data visualization, this guide will walk you through the key steps — from learning the basics to building a strong project portfolio.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-table-of-contents&#34;&gt;📚 Table of Contents&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#step-1-understand-the-basics&#34;&gt;Step 1: Understand the Basics&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#step-2-learn-a-visualization-tool-time-7-10-days&#34;&gt;Step 2: Learn a Visualization Tool&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#step-3-learn-visualization-best-practices&#34;&gt;Step 3: Learn Visualization Best Practices&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#step-4-practice-with-real-datasets&#34;&gt;Step 4: Practice with Real Datasets&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#step-5-build-and-share-your-portfolio&#34;&gt;Step 5: Build and Share Your Portfolio&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-step-1-understand-the-basics&#34;&gt;✅ Step 1: Understand the Basics&lt;/h2&gt;&#xA;&lt;p&gt;Start by understanding what data visualization is and why it&amp;rsquo;s important in data analysis and communication.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/resources/sql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resources/sql/</guid>
+      <description>&lt;h1 id=&#34;-sql-guide&#34;&gt;🧠 SQL Guide&lt;/h1&gt;&#xA;&lt;p&gt;This repository provides a comprehensive guide to learning SQL — from fundamental concepts to advanced techniques, along with practical applications and interview preparation tips.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-table-of-contents&#34;&gt;📚 Table of Contents&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#top-free-sql-learning-websites&#34;&gt;Top Free SQL Learning Websites&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#github-repository&#34;&gt;GitHub Repository&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#comprehensive-guide-to-learning-sql&#34;&gt;Comprehensive Guide to Learning SQL&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#1-database-fundamentals&#34;&gt;Database Fundamentals&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#2-sql-fundamentals&#34;&gt;SQL Fundamentals&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#3-intermediate-concepts&#34;&gt;Intermediate Concepts&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#4-practical-applications&#34;&gt;Practical Applications&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#5-how-much-sql-is-enough&#34;&gt;How Much SQL is Enough?&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#top-sql-youtube-channels&#34;&gt;Top SQL YouTube Channels&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-top-free-sql-learning-websites&#34;&gt;🌐 Top Free SQL Learning Websites&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://sqlbolt.com/&#34;&gt;SQLBolt&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://sqlzoo.net/wiki/SELECT_basics&#34;&gt;SQLZoo&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://mode.com/sql-tutorial&#34;&gt;Mode SQL Tutorial&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://sql-island.informatik.uni-kl.de/#&#34;&gt;SQL-Island&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-github-repository&#34;&gt;📂 GitHub Repository&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Access sample questions and a practice dataset here:&lt;br&gt;&#xA;👉 &lt;a href=&#34;https://github.com/SahilGogna/SQL-MyStrivera&#34;&gt;github.com/SahilGogna/SQL-MyStrivera&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

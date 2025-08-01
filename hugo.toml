@@ -1,0 +1,4 @@
+baseURL = 'https://sahilgogna.com/'
+languageCode = 'en-us'
+title = 'Sahil Gogna'
+theme = "charlolamode"
